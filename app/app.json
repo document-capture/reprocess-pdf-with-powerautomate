@@ -1,0 +1,36 @@
+{
+  "id": "3573311b-cb47-48e4-bfc3-5249f890fc14",
+  "name": "PTE DC Reprocess broken pdf",
+  "publisher": "github.com/document-capture",
+  "version": "1.0.0.0",
+  "brief": "This PTE proof of concept app enable the user to send broken pdf files for reprocessing",
+  "description": "The broken files are uploaded to a PowerAutomate webservice, converted to tiff file and back to pdf.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://github.com/document-capture/reprocess-pdf-with-powerautomate/wiki",
+  "url": "https://github.com/document-capture/reprocess-pdf-with-powerautomate/wiki",
+  "logo": "./res/images/logo.png",
+  "dependencies": [
+    {
+      "id": "6da8dd2f-e698-461f-9147-8e404244dd85", 
+      "name": "Continia Document Capture 365", 
+      "publisher": "Continia Software", 
+      "version": "7.2.0.1"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 61130,
+      "to": 61139
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
