@@ -27,6 +27,8 @@ Send the current selected document into the reprocessing
 ![](https://github.com/document-capture/reprocess-pdf-with-powerautomate/blob/main/media/Document-Journal_StartReprocessing.png)
 
 ## Remark ##
+The Power Automate Flow is using [encodian](https://encodian.com/products/flowr/]) connectors for the conversion. For frequent usage this requires a paid subscription at encodian that needs to be paid by the end users.
+
 You can use this code as it is, without any warranty or support by me or [Continia Software A/S](https://www.continia.com "Continia Software"). 
 
 You can use the app on your own risk. 
