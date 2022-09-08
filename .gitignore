@@ -1,3 +1,4 @@
+app/.vscode/*.*
 *.bak
 *launch.json
 app/.vscode/launch.json
